@@ -1,5 +1,4 @@
 - x button
-
 - figure out $event
 
 - test the lazy-loading pages
