@@ -1,0 +1,5 @@
+
+
+
+- test the lazy-loading pages
+- try to implement pinia
