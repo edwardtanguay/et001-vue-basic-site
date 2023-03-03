@@ -1,5 +1,7 @@
+- x button
 
-
+- figure out $event
 
 - test the lazy-loading pages
+- try objects in refs
 - try to implement pinia
